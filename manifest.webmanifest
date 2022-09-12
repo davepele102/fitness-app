@@ -4,12 +4,12 @@
   "description": "App for fitness",
   "scope": "/fitness-app/",
   "start_url": "/fitness-app/",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#292929",
+  "theme_color": "#242424",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/fitness-app/img/icon.png",
+        "src": "https://raw.githubusercontent.com/codepo8/github-page-pwa/main/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
