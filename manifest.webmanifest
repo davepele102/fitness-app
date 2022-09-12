@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Fitness App",
+  "short_name": "Fitness",
+  "description": "App for fitness",
   "scope": "/fitness-app/",
   "start_url": "/fitness-app/",
   "background_color": "#ffffff",
