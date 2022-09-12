@@ -1,6 +1,6 @@
 var GHPATH = '/fitness-app';
 var APP_PREFIX = 'fiapp_';
-var VERSION = 'version_00';
+var VERSION = 'version_01';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
